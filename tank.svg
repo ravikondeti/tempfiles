@@ -18,7 +18,7 @@
    version="1.1"
    inkscape:version="0.91 r13865"
    onload="var src; if (document.documentURI) src = document.documentURI; else if (this.getSrc) src = this.getSrc(); else src = document.location.href + ''; try {parent.preload.load(src);}catch(e) {}"
-   sodipodi:docname="drawing-5.svg">
+   sodipodi:docname="drawing-4.svg">
   <defs
      id="defs4">
     <linearGradient
